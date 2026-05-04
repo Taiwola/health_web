@@ -1,0 +1,13 @@
+# Exported from Render on 2026-05-04T21:14:37Z
+version: "1"
+services:
+- type: web
+  name: health_web
+  runtime: static
+  repo: https://github.com/sammyhak/health_web
+  buildCommand: npm run build
+  staticPublishPath: dist
+  domains:
+  - www.healthlineng.com
+  - healthlineng.com
+  autoDeployTrigger: commit
