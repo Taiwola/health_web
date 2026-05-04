@@ -4,7 +4,7 @@
       <div class="col-12 col-md-4">
         <img src="../assets/Frame 8.png" class="im">
         <p class="mt-3">29 Adeniyi Jones Avenue,Ikeja-Lagos,Nigeria</p>
-        <p class="pt">+234 7081123545 +234 8129937001</p>
+        <p class="pt">+234 7081123545 +234 816 269 5360</p>
         <p class="pt">info@healthlineng.com</p>
       </div>
       <div class="col-12 col-md-3">
@@ -25,6 +25,7 @@
         <p class="fortext"><a href="/#section2" style="color: black !important; text-decoration: none !important;"><router-link class="fortext" :to="{ path: '/', hash: '#section2' }">Terms of use</router-link></a></p>
         <p>Privacy policy</p>
         <p><router-link to="/spec" class="fortext ">How to order</router-link></p>
+        <p><router-link to="/adverse-report" class="fortext">Report Adverse Effect</router-link></p>
        
        
       </div>

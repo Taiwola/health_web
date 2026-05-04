@@ -133,7 +133,7 @@
       </button>
     </router-link> -->
   </div></b-nav-item>
-        <b-nav-item href="#" class="mt-2 ma"><router-link to="/cart" class="rou"><img src="../assets/ShoppingCart.png" class="imgf ml-5"></router-link></b-nav-item>
+        <!-- <b-nav-item href="#" class="mt-2 ma"><router-link to="/cart" class="rou"><img src="../assets/ShoppingCart.png" class="imgf ml-5"></router-link></b-nav-item> -->
       
 
        
